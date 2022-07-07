@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anshika
-- 👀 I’m interested in Problem Solving and other related skills.
+- 👀 I’m interested in Problem Solving.
 - 🌱 I’m currently learning web Development
 - 📫 You can reach me at aradhya6768@gmail.com.
 
