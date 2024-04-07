@@ -2,7 +2,7 @@
 <h3 align="center">Full stack developer</h3>
 
 - 🌱 Actively involved in a real production-related project **contributing to testing, quality assurance, and identifying production bugs, ensuring the delivery of robust and reliable software solutions.**
-
+- 📝 Currently engaged in hands-on exploration and learning **MERN**.
 - 👨‍💻 All of my projects are available at [vercel](https://vercel.com/anshika-upadhyays-projects)
 </br>
 
