@@ -3,7 +3,7 @@
 
 - 🌱 Actively involved in a real production-related project **contributing to testing, quality assurance, and identifying production bugs, ensuring the delivery of robust and reliable software solutions.**
 - 📝 Currently engaged in hands-on exploration and learning **MERN**.
-- 👨‍💻 All of my projects are available at [vercel](https://vercel.com/anshika-upadhyays-projects)
+- 👨‍💻 View my work at [vercel](https://vercel.com/anshika-upadhyays-projects)
 </br>
 
 <h3 align="left">Connect with me:</h3>
